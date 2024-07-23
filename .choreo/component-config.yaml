@@ -1,0 +1,5 @@
+apiVersion: core.choreo.dev/v1beta1
+kind: ComponentConfig
+      - name: choreo:///apifirst/mttm/mmvhxd/ad088/v1.0/PUBLIC
+        # +required Name of the connection instance.
+        connectionConfig: 19d2648b-d29c-4452-afdd-1b9311e81412
